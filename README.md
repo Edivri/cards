@@ -4,4 +4,4 @@
 ## Screenshoot
 
 
-<img src="card.png">
+<img src="assets/card.png">
